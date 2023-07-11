@@ -1,0 +1,5 @@
+# dependencies
+/hello-world/node_modules
+
+# IDE
+/hello-world/.vscode
